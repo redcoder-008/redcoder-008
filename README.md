@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Karan Kumar Kamat.
 - 👀 I’m interested in Coding,developing,
 - 🌱 I’m currently learning java,C++ and DSA
-- 💞️ I’m looking to collaborate on Any big MNC's.
+- 💞️ I’m looking to collaborate on FAANG/MAANG
 - 📫 How to reach me ...whatsup(+9779804005610)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Overthinker....
