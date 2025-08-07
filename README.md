@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web Developer | MERN Stack Learner | DSA Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=435&lines=Self-taught+Developer;Always+learning+new+things;Love+to+build+projects+and+solve+problems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=485&lines=Self-taught+Developer;Always+learning+new+things;Love+to+build+projects+and+solve+problems" />
 </p>
 
 ---
